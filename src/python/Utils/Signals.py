@@ -3,7 +3,7 @@
 #pylint: disable=
 """
 File       : Signals.py
-Author     : Valentin Kuznetsov <vkuznet AT gmail dot com>
+Author     : Valentin Kuznetsov `<vkuznet AT gmail dot com>`
 Description: This module provide set of hooks to running program
 The dumpthreads callback function will be called every time when
 running program will receive SIGUSR1 signal. E.g., in unix shell
