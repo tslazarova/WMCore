@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 File       : ProcessStats.py
-Author     : Valentin Kuznetsov <vkuznet AT gmail dot com>
+Author     : Valentin Kuznetsov `<vkuznet AT gmail dot com>`
 Description: This module provide ability to get detailed information about
 certain UNIX process, referred by PID. It is based on psutil and threading
 python modules. It can be used in any web/data-server to get live status
